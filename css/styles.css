@@ -1,0 +1,71 @@
+.ayano{
+    height: 300px;
+    width: 300px;
+    margin-top: 60px;
+} 
+hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}   
+body{
+    background-color: #E4F9F5;
+    margin: 0;
+    text-align: center;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-size: 2rem;
+    color: #0F3D3E;
+}
+h1{
+   margin: 40px auto 0;
+   font-family: 'Satisfy', cursive;
+   font-size: 90px;
+   color: #0F3D3E;
+}
+img{
+    margin: 0;
+    
+}
+.cloud2{
+    position: absolute;
+    top: 50%;
+    left: 15%;
+}
+.cloud1{
+    position: absolute;
+    right: 20%;
+    bottom: 85%;
+}
+.top-container{
+    background-color: #76BA99;
+    position: relative;
+    padding-top: 100px;
+}
+.skill{
+    height: 250px;
+    width: 250px;
+}
+.middle-container{
+    background-color: #76BA99;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding-bottom: 25px;
+}
+.lang{
+    display: inline-block;
+    height: 150px;
+    width: 150px;
+    padding: 25px;
+}
+.footer{
+    margin-top: 0;
+}
+.intro{
+    width: 50%;
+    margin: 0 auto 0;
+}
+p{
+    line-height: 2;
+}
